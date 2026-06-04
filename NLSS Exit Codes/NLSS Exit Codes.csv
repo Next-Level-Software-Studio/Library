@@ -7,7 +7,7 @@ Codes,Meaning
 68,Host not found.
 69,A required background service, external program, or resource is missing or down.
 70,An internal bug inside the program itself (not the OS).
-71,
+71,System Error. The operating system failed to complete a core task, like running out of memory or failing to fork a process
 72,
 73,
 74,
