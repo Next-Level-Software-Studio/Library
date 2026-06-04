@@ -1,14 +1,23 @@
 Codes,Meaning
-0,
-64,
-65,
-66,
-67,
-68,
-69,
-70,
+0,Complete success.
+64,Syntax error in the command.
+65,Corrupted input data.
+66,File not found, or could not be opened.
+67,User not found.
+68,Host not found.
+69,A required background service, external program, or resource is missing or down.
+70,An internal bug inside the program itself (not the OS).
 71,
 72,
 73,
 74,
-75
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
